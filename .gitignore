@@ -1,0 +1,19 @@
+# Visual Studio 本机配置
+.vs/
+*.user
+
+# Visual Studio 编译输出
+**/x64/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.exe
+
+# 程序运行生成的接收文件
+GBN_sever/data.txt
