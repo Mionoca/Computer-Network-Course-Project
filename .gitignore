@@ -1,19 +1,2 @@
-# Visual Studio 本机配置
+# Visual Studio 自动缓存目录体积很大，且包含超过 GitHub 单文件限制的 ipch 缓存文件。
 .vs/
-*.user
-
-# Visual Studio 编译输出
-**/x64/
-**/Debug/
-**/Release/
-*.obj
-*.pdb
-*.idb
-*.ilk
-*.log
-*.tlog
-*.recipe
-*.exe
-
-# 程序运行生成的接收文件
-GBN_sever/data.txt
